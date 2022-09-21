@@ -1,0 +1,7 @@
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\SqlServerApp1\bin\Debug\SqlServerApp1.exe.config
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\SqlServerApp1\bin\Debug\SqlServerApp1.exe
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\SqlServerApp1\bin\Debug\SqlServerApp1.pdb
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\SqlServerApp1\obj\Debug\SqlServerApp1.csprojAssemblyReference.cache
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\SqlServerApp1\obj\Debug\SqlServerApp1.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\SqlServerApp1\obj\Debug\SqlServerApp1.exe
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\SqlServerApp1\obj\Debug\SqlServerApp1.pdb

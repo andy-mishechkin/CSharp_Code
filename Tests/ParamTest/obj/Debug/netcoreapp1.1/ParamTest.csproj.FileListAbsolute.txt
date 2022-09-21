@@ -1,0 +1,11 @@
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\ParamTest\bin\Debug\netcoreapp1.1\ParamTest.deps.json
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\ParamTest\bin\Debug\netcoreapp1.1\ParamTest.runtimeconfig.json
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\ParamTest\bin\Debug\netcoreapp1.1\ParamTest.runtimeconfig.dev.json
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\ParamTest\obj\Debug\netcoreapp1.1\ParamTest.AssemblyInfo.cs
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\ParamTest\bin\Debug\netcoreapp1.1\ParamTest.dll
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\ParamTest\bin\Debug\netcoreapp1.1\ParamTest.pdb
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\ParamTest\obj\Debug\netcoreapp1.1\ParamTest.dll
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\ParamTest\obj\Debug\netcoreapp1.1\ParamTest.pdb
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\ParamTest\obj\Debug\netcoreapp1.1\ParamTest.csprojAssemblyReference.cache
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\ParamTest\obj\Debug\netcoreapp1.1\ParamTest.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\ParamTest\obj\Debug\netcoreapp1.1\ParamTest.AssemblyInfoInputs.cache

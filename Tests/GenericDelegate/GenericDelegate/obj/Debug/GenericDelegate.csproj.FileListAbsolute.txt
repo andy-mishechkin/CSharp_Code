@@ -1,0 +1,7 @@
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe.config
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.pdb
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.csprojResolveAssemblyReference.cache
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.exe
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.pdb

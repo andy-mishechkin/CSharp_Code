@@ -1,0 +1,69 @@
+
+        public string Server
+        {
+            get => SqlServer;
+            set => SqlServer = value ?? throw new ArgumentNullException("ServerName cannot be null", nameof(value));
+        }
+        private string SqlServer;
+
+        public string Db
+        {
+            get => SqlDb;
+            set => SqlDb = value ?? throw new ArgumentNullException("DbName cannot be null", nameof(value));
+        }
+        private string SqlDb;
+
+
+public string SqlServerTextBoxValue
+        {
+            get
+            {
+                string SqlServer = SqlServerTextBox.Text;
+                return SqlServer;
+            }
+        }
+
+        public int SqlPortTextBoxValue
+        {
+            get
+            {
+                int Port = Int32.Parse(SqlPortTextBox.Text);
+                return Port;
+            }
+        }
+
+        public string SqlDataComboBoxValue
+        {
+            get
+            {
+                string Db = SqlDataComboBox.Text;
+                return Db;
+            }
+        }
+
+        public string SqlUserTextBoxValue
+        {
+            get
+            {
+                string User = SqlUserTextBox.Text;
+                return User;
+            }
+        }
+
+        public string SqlPswdTextBoxValue
+        {
+            get
+            {
+                string Password = SqlPswdTextBox.Text;
+                return Password;
+            }
+        }
+
+        public bool SqlAuthCheckBoxValue
+        {
+            get
+            {
+                bool SqlAuth = SqlAuthCheckBox.Checked;
+                return SqlAuth;
+            }
+        }

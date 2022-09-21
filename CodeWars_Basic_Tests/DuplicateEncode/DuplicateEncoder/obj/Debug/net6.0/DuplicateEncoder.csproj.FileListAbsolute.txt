@@ -1,0 +1,15 @@
+/home/andy/Development/C#/CodeWars_Basic_Tests/DuplicateEncode/DuplicateEncoder/bin/Debug/net6.0/DuplicateEncoder
+/home/andy/Development/C#/CodeWars_Basic_Tests/DuplicateEncode/DuplicateEncoder/bin/Debug/net6.0/DuplicateEncoder.deps.json
+/home/andy/Development/C#/CodeWars_Basic_Tests/DuplicateEncode/DuplicateEncoder/bin/Debug/net6.0/DuplicateEncoder.runtimeconfig.json
+/home/andy/Development/C#/CodeWars_Basic_Tests/DuplicateEncode/DuplicateEncoder/bin/Debug/net6.0/DuplicateEncoder.dll
+/home/andy/Development/C#/CodeWars_Basic_Tests/DuplicateEncode/DuplicateEncoder/bin/Debug/net6.0/ref/DuplicateEncoder.dll
+/home/andy/Development/C#/CodeWars_Basic_Tests/DuplicateEncode/DuplicateEncoder/bin/Debug/net6.0/DuplicateEncoder.pdb
+/home/andy/Development/C#/CodeWars_Basic_Tests/DuplicateEncode/DuplicateEncoder/obj/Debug/net6.0/DuplicateEncoder.csproj.AssemblyReference.cache
+/home/andy/Development/C#/CodeWars_Basic_Tests/DuplicateEncode/DuplicateEncoder/obj/Debug/net6.0/DuplicateEncoder.GeneratedMSBuildEditorConfig.editorconfig
+/home/andy/Development/C#/CodeWars_Basic_Tests/DuplicateEncode/DuplicateEncoder/obj/Debug/net6.0/DuplicateEncoder.AssemblyInfoInputs.cache
+/home/andy/Development/C#/CodeWars_Basic_Tests/DuplicateEncode/DuplicateEncoder/obj/Debug/net6.0/DuplicateEncoder.AssemblyInfo.cs
+/home/andy/Development/C#/CodeWars_Basic_Tests/DuplicateEncode/DuplicateEncoder/obj/Debug/net6.0/DuplicateEncoder.csproj.CoreCompileInputs.cache
+/home/andy/Development/C#/CodeWars_Basic_Tests/DuplicateEncode/DuplicateEncoder/obj/Debug/net6.0/DuplicateEncoder.dll
+/home/andy/Development/C#/CodeWars_Basic_Tests/DuplicateEncode/DuplicateEncoder/obj/Debug/net6.0/ref/DuplicateEncoder.dll
+/home/andy/Development/C#/CodeWars_Basic_Tests/DuplicateEncode/DuplicateEncoder/obj/Debug/net6.0/DuplicateEncoder.pdb
+/home/andy/Development/C#/CodeWars_Basic_Tests/DuplicateEncode/DuplicateEncoder/obj/Debug/net6.0/DuplicateEncoder.genruntimeconfig.cache

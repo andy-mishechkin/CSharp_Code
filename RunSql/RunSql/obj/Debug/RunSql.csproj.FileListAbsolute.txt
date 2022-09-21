@@ -1,0 +1,57 @@
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\RunSql\RunSql\obj\Debug\RunSql.gui.resources
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\RunSql\RunSql\obj\Debug\RunSql.Properties.Resources.resources
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\RunSql\RunSql\obj\Debug\RunSql.csproj.GenerateResource.Cache
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\RunSql\RunSql\obj\Debug\RunSql.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\RunSql\RunSql\obj\Debug\RunSql.csprojAssemblyReference.cache
+C:\Users\andy_\OneDrive\Documents\Visual Studio 2017\Source\C#\RunSql\RunSql\bin\Debug\RunSql.exe.config
+C:\Users\andy_\OneDrive\Documents\Visual Studio 2017\Source\C#\RunSql\RunSql\bin\Debug\RunSql.exe
+C:\Users\andy_\OneDrive\Documents\Visual Studio 2017\Source\C#\RunSql\RunSql\bin\Debug\RunSql.pdb
+C:\Users\andy_\OneDrive\Documents\Visual Studio 2017\Source\C#\RunSql\RunSql\obj\Debug\RunSql.gui.resources
+C:\Users\andy_\OneDrive\Documents\Visual Studio 2017\Source\C#\RunSql\RunSql\obj\Debug\RunSql.Properties.Resources.resources
+C:\Users\andy_\OneDrive\Documents\Visual Studio 2017\Source\C#\RunSql\RunSql\obj\Debug\RunSql.csproj.GenerateResource.cache
+C:\Users\andy_\OneDrive\Documents\Visual Studio 2017\Source\C#\RunSql\RunSql\obj\Debug\RunSql.csproj.CoreCompileInputs.cache
+C:\Users\andy_\OneDrive\Documents\Visual Studio 2017\Source\C#\RunSql\RunSql\obj\Debug\RunSql.exe
+C:\Users\andy_\OneDrive\Documents\Visual Studio 2017\Source\C#\RunSql\RunSql\obj\Debug\RunSql.pdb
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\RunSql\RunSql\bin\Debug\RunSql.exe.config
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\RunSql\RunSql\bin\Debug\RunSql.exe
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\RunSql\RunSql\bin\Debug\RunSql.pdb
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\RunSql\RunSql\obj\Debug\RunSql.exe
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\RunSql\RunSql\obj\Debug\RunSql.pdb
+C:\Users\andy_\OneDrive\Documents\Visual Studio 2017\Source\C#\RunSql\RunSql\obj\Debug\RunSql.csprojAssemblyReference.cache
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\x86\e_sqlite3.dll
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\x64\e_sqlite3.dll
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\RunSql.exe.config
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\RunSql.exe
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\RunSql.pdb
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\SQLite-net.dll
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\SQLitePCLRaw.batteries_green.dll
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\SQLitePCLRaw.core.dll
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\System.AppContext.dll
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\System.Console.dll
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\System.Globalization.Calendars.dll
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\System.IO.Compression.dll
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\System.IO.FileSystem.dll
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\System.Net.Http.dll
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\System.Net.Sockets.dll
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\SQLite-net.xml
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\obj\Debug\RunSql.csprojAssemblyReference.cache
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\obj\Debug\RunSql.gui.resources
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\obj\Debug\RunSql.Properties.Resources.resources
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\obj\Debug\RunSql.csproj.GenerateResource.cache
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\obj\Debug\RunSql.csproj.CopyComplete
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\obj\Debug\RunSql.exe
+D:\OneDrive\Documents\Source\C#\RunSql\RunSql\obj\Debug\RunSql.pdb

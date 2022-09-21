@@ -1,0 +1,7 @@
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\IssueWithNogenericCollections\IssueWithNogenericCollections\obj\Debug\IssueWithNogenericCollections.csprojResolveAssemblyReference.cache
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\IssueWithNogenericCollections\IssueWithNogenericCollections\obj\Debug\IssueWithNogenericCollections.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\IssueWithNogenericCollections\IssueWithNogenericCollections\bin\Debug\IssueWithNogenericCollections.exe.config
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\IssueWithNogenericCollections\IssueWithNogenericCollections\bin\Debug\IssueWithNogenericCollections.exe
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\IssueWithNogenericCollections\IssueWithNogenericCollections\bin\Debug\IssueWithNogenericCollections.pdb
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\IssueWithNogenericCollections\IssueWithNogenericCollections\obj\Debug\IssueWithNogenericCollections.exe
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\IssueWithNogenericCollections\IssueWithNogenericCollections\obj\Debug\IssueWithNogenericCollections.pdb

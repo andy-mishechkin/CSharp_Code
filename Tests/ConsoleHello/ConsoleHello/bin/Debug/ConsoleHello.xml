@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ConsoleHello</name>
+    </assembly>
+    <members>
+        <member name="T:ConsoleHello.KernelObjects">
+            <summary>
+            Первый консольный проект - Приветствие
+            </summary>
+        </member>
+        <member name="M:ConsoleHello.Program.Main">
+            <summary>
+            Точка входа. Запрашивает имя и выдает приветствие
+            </summary>
+        </member>
+    </members>
+</doc>

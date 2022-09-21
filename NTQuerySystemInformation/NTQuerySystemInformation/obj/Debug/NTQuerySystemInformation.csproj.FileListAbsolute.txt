@@ -1,0 +1,9 @@
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\NTQuerySystemInformation\NTQuerySystemInformation\bin\Debug\NTQuerySystemInformation.exe.config
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\NTQuerySystemInformation\NTQuerySystemInformation\bin\Debug\NTQuerySystemInformation.exe
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\NTQuerySystemInformation\NTQuerySystemInformation\bin\Debug\NTQuerySystemInformation.pdb
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\NTQuerySystemInformation\NTQuerySystemInformation\obj\Debug\NTQuerySystemInformation.csprojAssemblyReference.cache
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\NTQuerySystemInformation\NTQuerySystemInformation\obj\Debug\NTQuerySystemInformation.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\NTQuerySystemInformation\NTQuerySystemInformation\obj\Debug\NTQuerySystemInformation.exe
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\NTQuerySystemInformation\NTQuerySystemInformation\obj\Debug\NTQuerySystemInformation.pdb
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\NTQuerySystemInformation\NTQuerySystemInformation\bin\Debug\Microsoft.Management.Infrastructure.dll
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\NTQuerySystemInformation\NTQuerySystemInformation\obj\Debug\NTQuerySystemInformation.csproj.CopyComplete

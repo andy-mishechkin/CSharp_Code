@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegExpTest", "RegExpTest.csproj", "{10197110-DE58-4CEE-8FC2-E2415BDCAC71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10197110-DE58-4CEE-8FC2-E2415BDCAC71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10197110-DE58-4CEE-8FC2-E2415BDCAC71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10197110-DE58-4CEE-8FC2-E2415BDCAC71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10197110-DE58-4CEE-8FC2-E2415BDCAC71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00B432E8-9052-4224-AD52-6F6559BEF485}
+	EndGlobalSection
+EndGlobal

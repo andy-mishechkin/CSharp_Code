@@ -1,0 +1,7 @@
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\CommandLineArgsTest\CommandLineArgsTest\bin\Debug\CommandLineArgsTest.exe.config
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\CommandLineArgsTest\CommandLineArgsTest\bin\Debug\CommandLineArgsTest.exe
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\CommandLineArgsTest\CommandLineArgsTest\bin\Debug\CommandLineArgsTest.pdb
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\CommandLineArgsTest\CommandLineArgsTest\obj\Debug\CommandLineArgsTest.csprojAssemblyReference.cache
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\CommandLineArgsTest\CommandLineArgsTest\obj\Debug\CommandLineArgsTest.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\CommandLineArgsTest\CommandLineArgsTest\obj\Debug\CommandLineArgsTest.exe
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\CommandLineArgsTest\CommandLineArgsTest\obj\Debug\CommandLineArgsTest.pdb

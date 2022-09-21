@@ -1,0 +1,7 @@
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\Types\Types\bin\Debug\Types.exe.config
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\Types\Types\bin\Debug\Types.exe
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\Types\Types\bin\Debug\Types.pdb
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\Types\Types\obj\Debug\Types.csprojAssemblyReference.cache
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\Types\Types\obj\Debug\Types.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\Types\Types\obj\Debug\Types.exe
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\Types\Types\obj\Debug\Types.pdb

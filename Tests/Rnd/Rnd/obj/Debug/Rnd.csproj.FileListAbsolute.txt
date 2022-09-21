@@ -1,0 +1,7 @@
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\Rnd\Rnd\bin\Debug\Rnd.exe.config
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\Rnd\Rnd\bin\Debug\Rnd.exe
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\Rnd\Rnd\bin\Debug\Rnd.pdb
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\Rnd\Rnd\obj\Debug\Rnd.csprojAssemblyReference.cache
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\Rnd\Rnd\obj\Debug\Rnd.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\Rnd\Rnd\obj\Debug\Rnd.exe
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\Rnd\Rnd\obj\Debug\Rnd.pdb

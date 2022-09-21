@@ -1,0 +1,7 @@
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\RegExpTest\bin\Debug\RegExpTest.exe.config
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\RegExpTest\bin\Debug\RegExpTest.exe
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\RegExpTest\bin\Debug\RegExpTest.pdb
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\RegExpTest\obj\Debug\RegExpTest.csprojAssemblyReference.cache
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\RegExpTest\obj\Debug\RegExpTest.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\RegExpTest\obj\Debug\RegExpTest.exe
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\RegExpTest\obj\Debug\RegExpTest.pdb

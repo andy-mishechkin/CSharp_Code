@@ -1,0 +1,8 @@
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\ConsoleHello\ConsoleHello\bin\Debug\ConsoleHello.exe.config
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\ConsoleHello\ConsoleHello\bin\Debug\ConsoleHello.xml
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\ConsoleHello\ConsoleHello\bin\Debug\ConsoleHello.exe
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\ConsoleHello\ConsoleHello\bin\Debug\ConsoleHello.pdb
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\ConsoleHello\ConsoleHello\obj\Debug\ConsoleHello.csprojAssemblyReference.cache
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\ConsoleHello\ConsoleHello\obj\Debug\ConsoleHello.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\ConsoleHello\ConsoleHello\obj\Debug\ConsoleHello.exe
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\ConsoleHello\ConsoleHello\obj\Debug\ConsoleHello.pdb

@@ -1,0 +1,15 @@
+C:\Users\MishechkinA\Source\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Permutations\bin\Debug\net5.0\Permutations.exe
+C:\Users\MishechkinA\Source\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Permutations\bin\Debug\net5.0\Permutations.deps.json
+C:\Users\MishechkinA\Source\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Permutations\bin\Debug\net5.0\Permutations.runtimeconfig.json
+C:\Users\MishechkinA\Source\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Permutations\bin\Debug\net5.0\Permutations.runtimeconfig.dev.json
+C:\Users\MishechkinA\Source\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Permutations\bin\Debug\net5.0\Permutations.dll
+C:\Users\MishechkinA\Source\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Permutations\bin\Debug\net5.0\ref\Permutations.dll
+C:\Users\MishechkinA\Source\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Permutations\bin\Debug\net5.0\Permutations.pdb
+C:\Users\MishechkinA\Source\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Permutations\obj\Debug\net5.0\Permutations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MishechkinA\Source\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Permutations\obj\Debug\net5.0\Permutations.AssemblyInfoInputs.cache
+C:\Users\MishechkinA\Source\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Permutations\obj\Debug\net5.0\Permutations.AssemblyInfo.cs
+C:\Users\MishechkinA\Source\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Permutations\obj\Debug\net5.0\Permutations.csproj.CoreCompileInputs.cache
+C:\Users\MishechkinA\Source\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Permutations\obj\Debug\net5.0\Permutations.dll
+C:\Users\MishechkinA\Source\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Permutations\obj\Debug\net5.0\ref\Permutations.dll
+C:\Users\MishechkinA\Source\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Permutations\obj\Debug\net5.0\Permutations.pdb
+C:\Users\MishechkinA\Source\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Permutations\obj\Debug\net5.0\Permutations.genruntimeconfig.cache

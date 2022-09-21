@@ -1,0 +1,7 @@
+D:\OneDrive\Documents\Visual Studio 2017\Source\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\OneDrive\Documents\Visual Studio 2017\Source\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\OneDrive\Documents\Visual Studio 2017\Source\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\OneDrive\Documents\Visual Studio 2017\Source\ConsoleApp1\ConsoleApp1\obj\Debug\FirstLookAtInterface.csprojResolveAssemblyReference.cache
+D:\OneDrive\Documents\Visual Studio 2017\Source\ConsoleApp1\ConsoleApp1\obj\Debug\FirstLookAtInterface.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Visual Studio 2017\Source\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\OneDrive\Documents\Visual Studio 2017\Source\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

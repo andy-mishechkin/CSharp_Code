@@ -1,0 +1,7 @@
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\CloneablePoint\CloneablePoint\bin\Debug\CloneablePoint.exe.config
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\CloneablePoint\CloneablePoint\bin\Debug\CloneablePoint.exe
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\CloneablePoint\CloneablePoint\bin\Debug\CloneablePoint.pdb
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\CloneablePoint\CloneablePoint\obj\Debug\CloneablePoint.csprojResolveAssemblyReference.cache
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\CloneablePoint\CloneablePoint\obj\Debug\CloneablePoint.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\CloneablePoint\CloneablePoint\obj\Debug\CloneablePoint.exe
+D:\OneDrive\Documents\Visual Studio 2017\Source\C#\Tests\CloneablePoint\CloneablePoint\obj\Debug\CloneablePoint.pdb

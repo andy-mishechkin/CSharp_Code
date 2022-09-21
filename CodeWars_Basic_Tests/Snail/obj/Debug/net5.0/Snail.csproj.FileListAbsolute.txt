@@ -1,0 +1,16 @@
+C:\Users\andy\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Snail\obj\Debug\net5.0\Snail.csprojAssemblyReference.cache
+C:\Users\andy\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Snail\obj\Debug\net5.0\Snail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andy\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Snail\obj\Debug\net5.0\Snail.AssemblyInfoInputs.cache
+C:\Users\andy\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Snail\obj\Debug\net5.0\Snail.AssemblyInfo.cs
+C:\Users\andy\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Snail\obj\Debug\net5.0\Snail.csproj.CoreCompileInputs.cache
+C:\Users\andy\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Snail\bin\Debug\net5.0\Snail.exe
+C:\Users\andy\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Snail\bin\Debug\net5.0\Snail.deps.json
+C:\Users\andy\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Snail\bin\Debug\net5.0\Snail.runtimeconfig.json
+C:\Users\andy\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Snail\bin\Debug\net5.0\Snail.runtimeconfig.dev.json
+C:\Users\andy\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Snail\bin\Debug\net5.0\Snail.dll
+C:\Users\andy\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Snail\bin\Debug\net5.0\ref\Snail.dll
+C:\Users\andy\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Snail\bin\Debug\net5.0\Snail.pdb
+C:\Users\andy\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Snail\obj\Debug\net5.0\Snail.dll
+C:\Users\andy\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Snail\obj\Debug\net5.0\ref\Snail.dll
+C:\Users\andy\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Snail\obj\Debug\net5.0\Snail.pdb
+C:\Users\andy\Repos\C_Sharp_Code\CodeWars_Basic_Tests\Snail\obj\Debug\net5.0\Snail.genruntimeconfig.cache
