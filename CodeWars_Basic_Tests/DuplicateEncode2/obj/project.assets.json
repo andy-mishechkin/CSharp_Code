@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/andy/Development/C#/CodeWars_Basic_Tests/DuplicateEncode/DuplicateEncoder/DuplicateEncoder.csproj",
+      "projectUniqueName": "/home/andy/source/CSharp_Code/CodeWars_Basic_Tests/DuplicateEncode2/DuplicateEncoder.csproj",
       "projectName": "DuplicateEncoder",
-      "projectPath": "/home/andy/Development/C#/CodeWars_Basic_Tests/DuplicateEncode/DuplicateEncoder/DuplicateEncoder.csproj",
+      "projectPath": "/home/andy/source/CSharp_Code/CodeWars_Basic_Tests/DuplicateEncode2/DuplicateEncoder.csproj",
       "packagesPath": "/home/andy/.nuget/packages/",
-      "outputPath": "/home/andy/Development/C#/CodeWars_Basic_Tests/DuplicateEncode/DuplicateEncoder/obj/",
+      "outputPath": "/home/andy/source/CSharp_Code/CodeWars_Basic_Tests/DuplicateEncode2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/andy/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.108/sdk/6.0.108/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.109/sdk/6.0.109/RuntimeIdentifierGraph.json"
       }
     }
   }
